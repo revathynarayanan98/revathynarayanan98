@@ -9,6 +9,16 @@
 - 😄 Pronouns: She/Her/Hers
 - ✨ Fun Fact: I love reading books, So feel free to connect with me and give book suggestions. 
 
+🏡 [website][website] **|**  
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[website]: https://revathynarayanan.com
+[instagram]: https://instagram.com/revathy.nn
+[linkedin]: https://linkedin.com/in/revathynarayanan
+
+
 
 
   
