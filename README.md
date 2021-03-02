@@ -16,7 +16,7 @@
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />][instagram]
 
 
-<br />
+
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
