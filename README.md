@@ -12,7 +12,7 @@
 - ✨ Fun Fact: I love reading books, So feel free to connect with me and give book suggestions. 
 
 ### Connect with me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="img src="https://img.icons8.com/officexs/16/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src= "https://img.icons8.com/officexs/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
