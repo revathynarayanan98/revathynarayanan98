@@ -11,6 +11,11 @@
 - 😄 Pronouns: She/Her/Hers
 - ✨ Fun Fact: I love reading books, So feel free to connect with me and give book suggestions. 
 
+### Languages and Tools:
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+
+
 ### Connect with me:
 [<img align="left" alt="revathynarayanan98 | LinkedIn" width="22px" src= "https://img.icons8.com/ultraviolet/500/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://img.icons8.com/fluent/240/000000/instagram-new.png" />][instagram]
