@@ -13,7 +13,7 @@
 
 ### Connect with me:
 [<img align="left" alt="revathynarayanan98 | LinkedIn" width="22px" src= "https://img.icons8.com/ultraviolet/500/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://img.icons8.com/fluent/500/000000/instagram-new.png" />][instagram]
 
 
 <br />
