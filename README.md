@@ -21,7 +21,8 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-<br/> <br/>
+<br/> 
+<br/>
 
 [instagram]: https://instagram.com/revathy.nn
 [linkedin]: https://linkedin.com/in/revathynarayanan
