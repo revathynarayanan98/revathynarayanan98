@@ -29,6 +29,8 @@
 [instagram]: https://instagram.com/revathy.nn
 [linkedin]: https://linkedin.com/in/revathynarayanan
 
+[![revathynarayan98's github stats](https://github-readme-stats.vercel.app/api?username=revathynarayanan98&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revathynarayanan98show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
