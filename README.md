@@ -37,24 +37,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-
-<a href="https://github.com/revathynarayanan98/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.revathynarayanan98.vercel.app/api?username=revathynarayan98&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Revathy's github stats" />
-</a>
-<a href="https://github.com/revathynarayanan98/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.revathynarayanan98.vercel.app/api/top-langs/?username=revathynarayanan98&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/revathynarayanan98/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.revathynarayanan98.vercel.app/api/pin/?username=revathynarayanan98&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/revathynarayanan98/revathynarayanan98.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.revathynarayanan98.vercel.app/api/pin/?username=revathynarayanan98&repo=revathynarayanan98.github.io&theme=material-palenight" />
-</a>
-
-
-
-  
