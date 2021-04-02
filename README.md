@@ -4,8 +4,8 @@
 
 
 
-- 🌱 I’m currently learning Statistics and Data Science Concepts
-- 🤔 I’m looking for help with learning and discussing new technologies, and anything. ✨
+- 🌱 I’m constantly learning new technologies.
+- 🤔 I’m looking for help with learning and discussing new technologies. ✨
 - 💬 Ask me about anything
 - 📫 How to reach me: revathyn1998@gmail.com
 - 😄 Pronouns: She/Her/Hers
