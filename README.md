@@ -9,7 +9,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: revathyn1998@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ✨ Fun Fact: I love reading books, So feel free to connect with me and give book suggestions. 
+- ✨ Fun Fact: I love reading books.
 
 
 
