@@ -5,7 +5,6 @@
 
 
 - 🌱 I’m constantly learning new technologies. I enjoy problem solving and programming.
-- 🤔 I’m looking for help with learning and discussing new technologies. ✨
 - 💬 Ask me about anything
 - 📫 How to reach me: revathyn1998@gmail.com
 - 😄 Pronouns: She/Her/Hers
