@@ -25,7 +25,7 @@
 <br/> 
 <br/>
 
-[instagram]: https://instagram.com/revathy.nn
+[instagram]: https://instagram.com/revathy.nnn
 [linkedin]: https://linkedin.com/in/revathynarayanan
 
 **Languages and Tools:**  
