@@ -8,8 +8,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: revathyn1998@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ✨ Fun Fact: I love reading books.
-
+- ✨ Fun Fact: I enjoy reading books, sketching random things, and painting on various surfaces including canvas, paper, glass, ceramics, and terracotta.
 
 
 ### Connect with me:
