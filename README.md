@@ -1,6 +1,6 @@
 # Hi there, I'm Revathy! 👋
 
-<img align="right" alt="Coding GIF" src="https://github.com/revathynarayanan98/revathynarayanan98/blob/main/code.gif?raw=true" width="430" />
+<img align="right" alt="Coding GIF" src="https://github.com/revathynarayanan98/revathynarayanan98/blob/main/workingworkingworkingdayandnight.gif?raw=true" width="430" />
 
 ### Software Engineer & Builder
 
