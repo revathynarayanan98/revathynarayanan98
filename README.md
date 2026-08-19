@@ -1,6 +1,8 @@
 # Hi there, I'm Revathy! 👋
 
-<img align="right" alt="Coding GIF" src="https://github.com/revathynarayanan98/revathynarayanan98/blob/main/workingworkingworkingdayandnight.gif?raw=true" width="430" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### Software Engineer & Builder
 
@@ -12,6 +14,14 @@ Most recently, my work has focused on **authentication and mobile security**, wh
 
 I enjoy working across the full mobile development lifecycle - from architecture and API integration to testing, CI/CD, debugging, and production reliability - while collaborating closely with product, backend, QA, security, and engineering teams.
 
+</td>
+<td width="45%" valign="top">
+
+<img alt="Coding GIF" src="https://github.com/revathynarayanan98/revathynarayanan98/blob/main/workingworkingworkingdayandnight.gif?raw=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 - 📱 Building with **Kotlin, Java & modern Android**
 - 🔐 Experienced in **authentication, CIAM & mobile security**
@@ -20,8 +30,6 @@ I enjoy working across the full mobile development lifecycle - from architecture
 - 👩‍💻 I enjoy mentoring engineers, knowledge sharing & technical documentation
 - 🌱 Currently expanding my work with **Jetpack Compose, Kotlin Multiplatform & Flutter**
 - 📍 NJ / NYC
-
-<br clear="right"/>
 
 ## 🛠️ Languages & Technologies
 
