@@ -47,7 +47,7 @@ I enjoy working across the full mobile development lifecycle - from architecture
 
 ## 🌱 Beyond the Code
 
-I enjoy the people side of engineering just as much as the technical side — collaborating across teams, mentoring engineers, leading knowledge-transfer sessions, and creating technical documentation that makes complex systems easier to understand.
+I enjoy the people side of engineering just as much as the technical side - collaborating across teams, mentoring engineers, leading knowledge-transfer sessions, and creating technical documentation that makes complex systems easier to understand.
 
 I'm also an active member of **AnitaB.org** and **Women Who Code**, have attended the **Grace Hopper Celebration**, and volunteered with **Women Who Code NYC Tech Week**.
 
