@@ -1,8 +1,8 @@
 # Hi there, I'm Revathy! 👋
 
-<img align="right" alt="Coding GIF" src="https://github.com/revathynarayanan98/revathynarayanan98/blob/main/code.gif?raw=true" width="430" />
+<img align="right" alt="Coding GIF" src="https://github.com/revathynarayanan98/revathynarayanan98/blob/main/workingworkingworkingdayandnight?raw=true" width="430" />
 
-### Android Engineer & Builder
+### Software Engineer & Builder
 
 I like ambiguous problems, thoughtful products, and building things that reach real people.
 
