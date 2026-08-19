@@ -10,7 +10,7 @@ I'm a software engineer with ~5 years of experience building and scaling Android
 
 Most recently, my work has focused on **authentication and mobile security**, where I led Android initiatives across biometrics, MFA, account recovery, session management, and CIAM platform integrations.
 
-I enjoy working across the full mobile development lifecycle — from architecture and API integration to testing, CI/CD, debugging, and production reliability — while collaborating closely with product, backend, QA, security, and engineering teams.
+I enjoy working across the full mobile development lifecycle - from architecture and API integration to testing, CI/CD, debugging, and production reliability - while collaborating closely with product, backend, QA, security, and engineering teams.
 
 
 - 📱 Building with **Kotlin, Java & modern Android**
@@ -57,7 +57,7 @@ I'm also an active member of **AnitaB.org** and **Women Who Code**, have attende
 
 Outside of engineering, you'll usually find me travelling, sketching, painting, or reading something.
 
-I especially love experimenting with different surfaces — canvas, paper, glass, ceramics, terracotta... if it can hold paint, I'll probably try it. 🎨
+I especially love experimenting with different surfaces - canvas, paper, glass, ceramics, terracotta... if it can hold paint, I'll probably try it. 🎨
 
 ---
 
